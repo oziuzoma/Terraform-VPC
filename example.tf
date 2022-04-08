@@ -2,8 +2,8 @@
 # Configure the AWS Provider
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAUNKHVM7YDWV37FPX" 
-  secret_key = "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"
+  access_key = "" 
+  secret_key = ""
 }
 
 resource "aws_vpc" "ozi" {
